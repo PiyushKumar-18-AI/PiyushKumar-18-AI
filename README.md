@@ -1,19 +1,19 @@
 <h1 align="center">Hello There!, I'm Piyush Kumar 👋</h1>
 
 <h3 align="center">An UnderGrad studying Computer Science in Times of India, Bennett University</h3>
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <a href="https://linkedin.com/in/piyush-kumar-a883731b9">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Piyush's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/PiyushKumar-18-AI">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Piyush's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/official_piyushkr.18/">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Piyush's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ### Overview of Myself
 - 🔭 I’m currently working as a CSE Student in Bennett University, Greater Noida, India.
