@@ -10,9 +10,8 @@
   <img align="left" alt="Piyush's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/official_piyushkr.18/">
-  <img align="left" alt="Piyush's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Piyush's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<br/>
 <br/>
 <hr/>
 
@@ -29,6 +28,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Piyush_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyush-kumar-a883731b9//)](https://www.linkedin.com/in/piyush-kumar-a883731b9/)
 [![Gmail Badge](https://img.shields.io/badge/-piyushkumar000018@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:piyushkumar000018@gmail.com)](mailto:piyushkumar000018@gmail.com)
+
+<hr/>
 
 ### My Git-Hub Journey
 <p align="center">
