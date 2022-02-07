@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I am Piyush Kumar 👋
 
-<!--
-**PiyushKumar-18-AI/PiyushKumar-18-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Piyush_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyush-kumar-a883731b9//)](https://www.linkedin.com/in/piyush-kumar-a883731b9/)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as a Student in Bennett University, Greater Noida, India.
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on Instagrams
+- 🤔 I’m looking for help with Flutter API's
+- 💬 Ask me about Python, Machine Learning, Flutter
+- 📫 How to reach me: Instgram: @official_piyushkr.18
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I Love Clicking Photos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src = "https://github-readme-stats.vercel.app/api?username=PiyushKumar-18-AI&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
