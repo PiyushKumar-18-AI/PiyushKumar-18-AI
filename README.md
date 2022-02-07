@@ -12,7 +12,9 @@
 <a href="https://instagram.com/official_piyushkr.18/">
   <img align="left" alt="Piyush's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
+<br/>
+<br/>
+<hr/>
 
 
 ### Overview of Myself
