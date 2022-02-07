@@ -54,7 +54,6 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 <br/>
-<br/>
 <a href="https://github.com/PiyushKumar-18-AI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushKumar-18-AI&theme=light&hide_langs_below=1" />
 </a>
