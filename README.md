@@ -23,7 +23,7 @@
 - 🤔 I’m looking for help with Flutter API's.
 - 💬 Ask me about Python, Machine Learning, Flutter.
 - 📫 How to reach me: [Instgram - @official_piyushkr.18]("https://instagram.com/official_piyushkr.18/")
-- 😄 Pronouns: He/His.
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I am a Certified Drone Pilot.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Piyush_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyush-kumar-a883731b9//)](https://www.linkedin.com/in/piyush-kumar-a883731b9/)
