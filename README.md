@@ -1,4 +1,4 @@
-<h1 align="center">Hello There!, I'm Piyush Kumar 👋</h1>
+<h1 align="center">Hello There!, I'm Piyush Kumar.. 👋</h1>
 
 <h3 align="center">An UnderGrad studying Computer Science in Times of India, Bennett University</h3>
 
