@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on Instagrams, Mails.
 - 🤔 I’m looking for help with Flutter API's.
-- 💬 Ask me about Python, Machine Learning, Flutter.
+- 💬 Ask me about Python, Machine Learning, Flutter and DSA.
 - 📫 How to reach me: [Instagram - @official_piyushkr.18]("https://instagram.com/official_piyushkr.18/")
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I am a Certified Drone Pilot.
