@@ -33,7 +33,7 @@
 
 ### My Git-Hub Journey
 <p align="center">
-  <img alt= "PK's Github Stats"  src = "https://github-readme-stats.vercel.app/api?username=PiyushKumar-18-AI&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <img alt= "PK's Github Stats"  src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PiyushKumar-18-AI&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
   </p>
   
 <hr/>
@@ -57,7 +57,7 @@
 </p>
 <br/>
 <a href="https://github.com/PiyushKumar-18-AI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushKumar-18-AI&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PiyushKumar-18-AI&theme=light&hide_langs_below=1" />
 </a>
 <hr/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkumar-18-ai&" alt="piyushkumar-18-ai" /></p>
@@ -66,5 +66,4 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
   
