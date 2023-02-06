@@ -22,7 +22,8 @@
 - 👯 I’m looking to collaborate on Instagrams, Mails.
 - 🤔 I’m looking for help with Flutter API's.
 - 💬 Ask me about Python, Machine Learning, Flutter and DSA.
-- 📫 How to reach me: [Instagram - @official_piyushkr.18]("https://instagram.com/official_piyushkr.18/")
+- 📫 How to reach me: <b>Instagram</b> - <a href="https://instagram.com/official_piyushkr.18/"><i>@official_piyushkr.18</i></a>
+- 🖥️ My Portfolio Website: <a href = "https://piyushkumar18.tech/"><i>piyushkumar18.tech</i></a>
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I am a Certified Drone Pilot.
 
